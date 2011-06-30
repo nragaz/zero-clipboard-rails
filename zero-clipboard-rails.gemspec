@@ -2,12 +2,12 @@
 require File.expand_path('../lib/zero_clipboard/rails/version', __FILE__)
 
 Gem::Specification.new do |s|
-  s.name        = "zero_clipboard-rails"
+  s.name        = "zero-clipboard-rails"
   s.version     = ZeroClipboard::Rails::VERSION
   s.platform    = Gem::Platform::RUBY
   s.authors     = ["Nick Ragaz"]
   s.email       = ["nick.ragaz@gmail.com"]
-  s.homepage    = "http://rubygems.org/gems/zero_clipboard-rails"
+  s.homepage    = "http://rubygems.org/gems/zero-clipboard-rails"
   s.summary     = "Use the Zero Clipboard Javascript/Flash library with Rails 3.1"
   s.description = "This gem provides the Zero Clipboard Javascript/Flash library for your Rails 3.1 application."
 
