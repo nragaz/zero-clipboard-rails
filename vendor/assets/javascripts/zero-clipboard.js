@@ -1,3 +1,2 @@
-//= require_tree "./zero-clipboard"
-
-ZeroClipboard.setMoviePath( '/assets/ZeroClipboard10.swf' );
+//= require "./zero-clipboard/zero-clipboard"
+//= require "./zero-clipboard/asset-path"
